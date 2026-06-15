@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "process_name": [
+        "QQ.exe",
+        "oopz.exe"
+      ]
+    },
+    {
+      "domain": [
+        "yz.chsi",
+        "zhihu.com",
+        "bilibili.com",
+        "qq.com",
+        "mcnc.crzteam"
+      ],
+      "domain_keyword": [
+        "lanzouu",
+        "deepseek",
+        "nuaa",
+        "tieba",
+        "baidu"
+      ]
+    }
+  ]
+}

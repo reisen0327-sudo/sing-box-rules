@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "process_name": [
+        "osu!.exe",
+        "Discord.exe"
+      ]
+    },
+    {
+      "domain": [
+        "leoflt.com",
+        "ppy.sh",
+        "google.com",
+        "loved.sh"
+      ],
+      "domain_keyword": [
+        "github",
+        "find-words",
+        "vocadb",
+        "etternaonline",
+        "wordfinderx",
+        "mutualify",
+        "pixiv",
+        "youtube"
+      ]
+    }
+  ]
+}
