@@ -4,7 +4,9 @@
     {
       "process_name": [
         "osu!.exe",
-        "Discord.exe"
+        "Discord.exe",
+        "Antigravity.exe",
+        "language_server.exe"
       ]
     },
     {
@@ -13,7 +15,8 @@
         "ppy.sh",
         "google.com",
         "loved.sh",
-        "chatgpt.com"
+        "chatgpt.com",
+        "gemini.google.com"
       ],
       "domain_keyword": [
         "github",
